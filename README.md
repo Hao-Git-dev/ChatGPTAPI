@@ -1,2 +1,2 @@
-# AIAPP
-基于ChatGPT的二次元向AI对话软件
+# 介绍
+调用ChatGPTAPI
